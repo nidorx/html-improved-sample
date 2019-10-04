@@ -3,7 +3,9 @@
 Sample project using grunt plugin for [html-improved](https://github.com/nidorx/html-improved)
 
 ## Try
-`npm install`
+```bash
+npm install
 
-`grunt build`
+npm run-script build
+```
 
